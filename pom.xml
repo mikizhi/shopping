@@ -10,7 +10,7 @@
     <groupId>com.ascending</groupId>
     <artifactId>random</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>random Tapestry 5 Application</name>
+    <name>random project for show case</name>
 	<properties>
         <java.version>1.8</java.version>
         <tapestry-version>5.5.0-beta-3</tapestry-version>
